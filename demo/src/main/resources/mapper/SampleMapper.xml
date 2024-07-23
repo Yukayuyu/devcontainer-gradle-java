@@ -7,7 +7,7 @@
 
     <select id="findAll" resultType="com.example.demo.model.SampleModel">
         SELECT id, name
-        FROM sample_table
+        FROM users
     </select>
 
 </mapper>
